@@ -8,7 +8,7 @@
 <br></br>
 
 ## About me:
-I like to create software in my free time, from creating videogame concepts or 3D tools, to small useful programs.
+I like to create software in my free time, from creating videogame concepts or 2D/3D tools, to small useful programs.
 <br>
 I am interested in computer graphics, computer vision and AI.
 </br>
