@@ -10,5 +10,5 @@
 ## About me:
 I like to create software in my free time, from creating videogame concepts or 2D/3D tools, to small useful programs.
 <br>
-I am interested in computer graphics, computer vision and AI.
+I am interested in computer graphics, computer vision, data analysis and AI.
 </br>
